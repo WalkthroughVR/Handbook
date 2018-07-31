@@ -1,4 +1,4 @@
-##Submitting A Ticket to Developers##
+## Submitting A Ticket to Developers ##
 
 If you need to submit a bug issue or feature request to the dev team, here is how:
 
