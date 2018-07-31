@@ -21,6 +21,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 - [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/CompensationStructure)
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools)
+- [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint)
 
 
 
