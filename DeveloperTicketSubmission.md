@@ -1,6 +1,8 @@
+##Submitting A Ticket to Developers##
+
 If you need to submit a bug issue or feature request to the dev team, here is how:
 
-## Via Slack ##
+### Via Slack ###
 
 Since most of our company communications happen over Slack, it makes sense to accept tickets that may arise in conversation here. If you need to submit one, ideally you would form your ticket like so:
 
