@@ -1,4 +1,4 @@
-**How to create tasks for Sprint**
+# How to create tasks for Sprint
 
 1. [Visit the Issues tab within the Internal Handbook and click “New Issue”](https://github.com/WalkthroughVR/InternalHandbook/issues)
 <br>
@@ -15,6 +15,6 @@
 <br><Br>
 
 
-**Quick guide of tags:** 
+# Quick guide of tags:
 
-- Depending on others: This means someone else is involved in this task other than you. These tasks are prioritized in terms of getting them accomplished because you need to work with others’ schedules. 
+- **Depending on others:** This means someone else is involved in this task other than you. These tasks are prioritized in terms of getting them accomplished because you need to work with others’ schedules. 
