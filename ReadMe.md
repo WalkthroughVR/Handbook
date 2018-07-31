@@ -13,14 +13,14 @@ Please send us comments & feedback as you read through the documentation to pasc
 **General**
 
 - Walkthrough Values
-- Competitive Landscape
+- [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape)
 
 
 **How We Work**
 
-- Compensation Structure
-- Meeting Types & Cadences
-- Tools We use
+- [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/CompensationStructure)
+- [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings)
+- [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools)
 
 
 
