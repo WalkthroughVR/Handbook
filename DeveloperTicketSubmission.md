@@ -12,4 +12,4 @@ When I <perform a particular action>
 Then I <state the expected result>
 ```
 
-It takes a little practice to get used ot structuring your issues in this way, and we also encourage you to discuss the issue naturally and we can help you construct the ticket if you need help.
+It takes a little practice to get used to structuring your issues in this way, and we also encourage you to discuss the issue naturally and we can help you construct the ticket if you need help.
