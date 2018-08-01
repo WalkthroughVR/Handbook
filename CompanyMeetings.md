@@ -30,7 +30,7 @@ Walkthrough currently has 3 official meetings that we use as a team to make sure
    1. Talking/Discussion Points
 
 
-##  Daily Standup - 10am-10:30pm MST every day but not when we have sprint
+##  Daily Standup - 10am-10:30am MST every day but not when we have sprint
 1. Write daily update & make sure your asana tasks are up to date - prior to 10a
 1. Read everyone’s responses, ask clarifying questions
 1. Review Asana tasks
