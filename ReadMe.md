@@ -13,15 +13,18 @@ Please send us comments & feedback as you read through the documentation to pasc
 **General**
 
 - Walkthrough Values
-- [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape)
-- [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
+- [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
 **How We Work**
 
-- [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/CompensationStructure)
-- [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings)
-- [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools)
-- [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint)
+- [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/CompensationStructure.md)
+- [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings.md)
+- [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools.md)
+
+**Procedures**
+- [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
+- [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
+
 
 
 
