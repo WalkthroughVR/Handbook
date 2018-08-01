@@ -12,6 +12,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 **General**
 
+- Vision
 - Walkthrough Values
 - [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
@@ -27,8 +28,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 
 
-
-
-
-
-
+**Items To Add**
+- Brand Guidelines
+- How we hire & what we look for
+- 
