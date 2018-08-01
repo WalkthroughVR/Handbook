@@ -5,9 +5,10 @@ Below is a bit of information that might be useful to anyone across the company.
 ### Office Mailing Address:
 - 1015 Fillmore St. PMB 17346 San Francisco, CA 94115
 
-### HQ Phone Number:
+### HQ Contact Info:
 
-- 303.900.0469
+- Phone: 303.900.0469
+- Email: hello@getawalkthrough.com
 
 
 ### Internet Profiles
@@ -23,3 +24,8 @@ Hiring Related
 - [Hired](https://hired.com/company/walkthrough)
 - [Linkedin](https://www.linkedin.com/company/walkthrough-vr-for-real-estate-)
 - [Glassdoor](https://www.glassdoor.com/Overview/Working-at-WalkThrough-EI_IE1521867.11,22.htm)
+
+
+### Large Investors ($500k+ Investments)
+- [Zero G Capital](https://www.crunchbase.com/organization/zero-gravity-capital)
+- [Birchmere Ventures](https://www.crunchbase.com/organization/birchmere-ventures)
