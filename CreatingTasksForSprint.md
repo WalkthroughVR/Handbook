@@ -5,12 +5,17 @@
 
 ![Image of Github Issue](http://i67.tinypic.com/24viqms.png)
 
-2. The template for submitting tasks automatically shows up where you should fill out the summary (Task), why it’s important (So That), and how we’ll determine if the task was completed (Determined By). There is an additional section to help you outline the steps you may need to take in order to accomplish the task. 
+2. Click on the correct Issue you'd like to create.
+<br>
+
+![Image of picking github issue](http://i68.tinypic.com/4kv5vc.png)
+
+3. The template for submitting tasks automatically shows up where you should fill out the summary (Task), why it’s important (So That), and how we’ll determine if the task was completed (Determined By). There is an additional section to help you outline the steps you may need to take in order to accomplish the task. 
 <br>
 
 ![Image of Github Sprint task](http://i67.tinypic.com/k99a1c.png)
 
-3. If you already know who will be completing the task, go ahead and assign them on the right side. Also be sure to add any tags if they are appropriate. 
+4. If you already know who will be completing the task, go ahead and assign them on the right side. Also be sure to add any tags if they are appropriate. 
 
 <br><Br>
 
