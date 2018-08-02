@@ -8,7 +8,7 @@ This is our photographer app. The purpose of this app is very similar to Doordas
 
 ### Realtor Dashboard (Desktop)
 This is the way agents are able to access their dashboard to not only book listings but also see their previous orders.
-<br>[UI In Progress](https://invis.io/R7NANATB8GT)
+<br>[UI (In Progress)](https://invis.io/R7NANATB8GT)
 <br>[Web Information Architecture](https://drive.google.com/open?id=1W9A1RhCHBvE6faD27nTyHKFqdcSQD6Oh)
 
 
