@@ -27,12 +27,11 @@ Base x Influence x Salary Choice x OKR + Benefits
 
 ## Benefits:
 **One-time:**
-* Up to $1,000 reimbursement for computer upgrades (new laptop, upgrading computer parts)
-* Up to $1,000 reimbursement to create the best working environment (monitors, standing desks, etc)
-* Beddit Sleep Tracker - we believe that great sleep leads to a happier healthier life. So we’re proactive in providing this to all of our team members when they join.
+* Up to $1,500 reimbursement for computer upgrades (new laptop, upgrading computer parts) & to create the best working environment (monitors, standing desks, etc)
+
 
 **Annually:**
-* $6,000 contribution towards your health insurance paid out in cash
+* 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing
 * 28 Days Paid Time Off - Because team members may celebrate different holidays, we roll up paid time off and vacation time together. You may choose to work on Labor Day, so you should have the choice to take a different day off. 
 
 **Additional Benefits:**
