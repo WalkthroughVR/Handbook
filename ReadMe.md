@@ -26,6 +26,8 @@ Please send us comments & feedback as you read through the documentation to pasc
 - [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
 
 
+**FAQ**
+- [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
 
 **Items To Add**
 - Vision
