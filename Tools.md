@@ -4,7 +4,8 @@ We realize the more information you understand about a company before joining, t
 # Tech Stack
 The tech stack that we develop in include:
 
-- Python (Django)
+- Python 2/3
+- Django
 - MongoDB
 - AWS
 - Docker
