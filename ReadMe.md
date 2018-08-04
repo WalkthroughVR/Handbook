@@ -12,8 +12,9 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 **General**
 
-- [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
+- [Team](https://github.com/WalkthroughVR/Handbook/blob/master/Team.md)
 - [Projects we're working on](https://github.com/WalkthroughVR/Handbook/blob/master/Projects.md)
+- [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
 **How We Work**
 
