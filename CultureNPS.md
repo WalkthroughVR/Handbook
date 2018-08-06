@@ -19,7 +19,7 @@ Today, the questions we ask to determine how we’re doing are:
     5. 2+ years
 2. On a scale of 1-10, how positive & transparent do you feel the team is at Walkthrough? 
 3. On a scale of 1-10, how much autonomy do you feel that you have in achieving company goals?
-4. On a a scale of 1-10, how much do you feel Walkthrough is doing something for the world?  
+4. On a scale of 1-10, how excited are you about Walkthrough and what we're disrupting in the Real Estate Industry?
 5. On a scale of 1-10, how much personal growth do you feel at Walkthrough?
 
 <br><br>
