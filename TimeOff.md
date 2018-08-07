@@ -6,8 +6,7 @@
     * Always make sure that your job responsibilities are covered while you are away.
     * We strongly recommended to take at least a minimum of 2 weeks of vacation per year, if you take less, we  might follow up to review your work load.
 
-3. You do need to ensure that not more than half of the people that can help with availability emergencies (the on-call heroes), regular support, sales, or development are gone at any moment. You can check for this on the availability calendar, so be sure to add appointments early.
-Add an appointment to the Walkthrough availability calendar as you know your plans, you can always change it later.
+3. You do need to ensure that not more than half of the people that can help with availability emergencies (the on-call heroes), regular support, sales, or development are gone at any moment. You can check for this on the availability calendar, so be sure to add appointments early. [Add an appointment to the Walkthrough availability calendar](https://github.com/WalkthroughVR/InternalHandbook/blob/master/TimeOff.md) (Internal Document) as you know your plans, you can always change it later.
 
 
 
