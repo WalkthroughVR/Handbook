@@ -24,6 +24,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings.md)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools.md)
 - [Culture Net Promotor Score](https://github.com/WalkthroughVR/Handbook/blob/master/CultureNPS.md)
+- [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/TimeOff.md)
 
 **Procedures**
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
