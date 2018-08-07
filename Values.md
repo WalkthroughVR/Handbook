@@ -3,14 +3,6 @@ When we think about culture, we ask ourselves:<br>
 
 The following values are what we’ve come up with to date, that we believe in and strive for. They happen to spell out what we personally all strive for - GROWTH.
 
-- Growth
-- (Doing the) right thing
-- Optimism
-- Weighing data
-- Transparency
-- Hustle
-
-
 
 1.  **Growth**
     1. Details:
