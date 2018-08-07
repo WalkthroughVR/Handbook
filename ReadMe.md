@@ -13,6 +13,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 **General**
 
 - [Team](https://github.com/WalkthroughVR/Handbook/blob/master/Team.md)
+- [Values](https://github.com/WalkthroughVR/Handbook/blob/master/Values.md)
 - [Projects we're working on](https://github.com/WalkthroughVR/Handbook/blob/master/Projects.md)
 - [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
@@ -34,5 +35,4 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 **Items To Add**
 - Vision
-- Walkthrough Values
 - How we hire & what we look for
