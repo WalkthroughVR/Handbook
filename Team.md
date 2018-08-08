@@ -1,7 +1,7 @@
 **Executive Team**
 - CEO - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/)
 - [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - Vacant
-- Head of Growth - Vacant
+- [Head of Growth](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/VPofGrowth.md) - Vacant
 
 <br><br>
 **Engineering:**
