@@ -1,3 +1,4 @@
+# Team Breakdown
 **Executive Team**
 - CEO - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/)
 - [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - Vacant
@@ -30,7 +31,17 @@
 - Vacant Seat
 - Vacant Seat
 
+
+
 <br><br>
 **Want to join the Walkthrough team?** <br>
 See all of our current open job roles here:<br>
 http://angel.co/walkthroughvr/jobs
+
+
+<br><br>
+# Company Org Chart
+![Company Organization Chart](http://i67.tinypic.com/2l8zva1.png)
+
+
+
