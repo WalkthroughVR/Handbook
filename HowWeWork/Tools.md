@@ -17,9 +17,6 @@ The tech stack that we develop in include:
 ### Slack: Daily Communication
 ![](http://i67.tinypic.com/2le2qkl.png)
 
-### Asana: Keeping track of our tasks assigned at Sprint
-![](http://i63.tinypic.com/2hi1r35.png)
-
 ### Google Drive: Procedures
 ![](http://i66.tinypic.com/2qlbjly.png)
 
