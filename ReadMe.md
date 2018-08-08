@@ -19,12 +19,12 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 **How We Work**
 
-- [Operating Principles](https://github.com/WalkthroughVR/Handbook/blob/master/OperatingPrinciples.md)
-- [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/CompensationStructure.md)
-- [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/CompanyMeetings.md)
-- [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/Tools.md)
-- [Culture Net Promotor Score](https://github.com/WalkthroughVR/Handbook/blob/master/CultureNPS.md)
-- [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/TimeOff.md)
+- [Operating Principles](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/OperatingPrinciples.md)
+- [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md)
+- [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
+- [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/Tools.md)
+- [Culture Net Promotor Score](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CultureNPS.md)
+- [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/TimeOff.md)
 
 **Procedures**
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
