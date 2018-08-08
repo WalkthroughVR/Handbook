@@ -1,5 +1,5 @@
 # COO Job Description
-The COO is the second in command and partner to the CEO responsible for the effectiveness & efficiency of the business. Fundamentally, the COO leads and supports the Walkthrough team to achieve the company’s objectives.  Generally, COO ensures that Walkthrough operations, support, and product offering exceed customer expectations. 
+The COO is the second in command and partner to the CEO responsible for the effectiveness & efficiency of the business. Fundamentally, the COO leads and supports the Walkthrough team to achieve the company’s objectives.  Generally, the COO ensures that Walkthrough operations, support, and product offering exceed customer expectations. 
 
 ## The COO has the following responsibilities in our organization:
 
