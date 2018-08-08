@@ -33,6 +33,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 **FAQ**
 - [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
+- [Monthly Company Updates](https://github.com/WalkthroughVR/Handbook/blob/master/MonthlyCompanyUpdates.md)
 
 **Items To Add**
 - Vision
