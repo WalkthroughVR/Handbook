@@ -26,15 +26,20 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 
 ### Benefits:
 **One-time:**
-* Up to $1,500 reimbursement for computer upgrades (new laptop, upgrading computer parts) & to create the best working environment (monitors, standing desks, etc)
+- Up to $1,500 reimbursement for computer upgrades (new laptop, upgrading computer parts) & to create the best working environment (monitors, standing desks, etc).
 
 
-**Annually:**
-* 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing
-* 28 Days Paid Time Off - Because team members may celebrate different holidays, we roll up paid time off and vacation time together. You may choose to work on Labor Day, so you should have the choice to take a different day off. 
+**Annually:** 
+- 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing.
+- $240/year Learning & Development Stipend - The Learning & Development stipend is available to support teammates’ ongoing self-improvement. This includes: Online courses (Treehouse, Udemy, Coursera, CodeAcademy etc.) Classes, live training (General Assembly, local courses etc.) Leadership coaching, & digital news subscriptions such as the Wall Street Journal and the Economist. It just need to be somewhat work related.
+- 28 Days Paid Time Off - Because team members may celebrate different holidays, we roll up paid time off and vacation time together. You may choose to work on Labor Day, so you should have the choice to take a different day off. We want for you to take a minimum of 2 weeks off per year to recharge!
+- 5 Days Bereavement Leave.
+- 8 Weeks Maternity Leave w/ Full Pay - You can take as much time as you need thereafter unpaid. Your role will be waiting for you when you come back! You can also choose to take this time before birthy as well.
+
+
 
 **Additional Benefits:**
-* Buy any audible or kindle book on the company account
+- Buy and/or read any audible or kindle book on the company account.
 
 <br><br><br><br>
 
