@@ -24,7 +24,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 - [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md)
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/Tools.md)
-- [Culture Net Promotor Score](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CultureNPS.md)
+- [Measuring Culture](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/MeasuringCulture.md)
 - [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/TimeOff.md)
 
 **Procedures**
