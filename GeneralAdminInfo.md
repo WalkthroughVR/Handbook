@@ -24,6 +24,7 @@ Hiring Related
 - [Hired](https://hired.com/company/walkthrough)
 - [Linkedin](https://www.linkedin.com/company/walkthrough-vr-for-real-estate-)
 - [Glassdoor](https://www.glassdoor.com/Overview/Working-at-WalkThrough-EI_IE1521867.11,22.htm)
+- [Built In Colorado](https://www.builtincolorado.com/company/walkthrough)
 
 
 ### Large Investors ($500k+ Investments)
