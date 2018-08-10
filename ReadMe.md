@@ -30,7 +30,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 **Procedures**
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
 - [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
-
+- [Product Design & Testing](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/ProductDesignAndTesting.md)
 
 **FAQ**
 - [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
