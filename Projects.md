@@ -18,11 +18,4 @@ This our way of making it easy for agents to order everything they need to marke
 
 
 ### Walkthrough Brand Guide
-
-- [Intro](https://drive.google.com/open?id=1anqQgdkeAPsOcnwWhDJ9PzIPv3M37Yzs)
-- [Personality](https://drive.google.com/open?id=10UMVw0cn5cMrrRzkUR34wE6MHaVfvPvO)
-- [Target Audience](https://drive.google.com/open?id=1xP5FrVD9FkjJxQQ0eFxh9sIMqZySrr_y)
-- [Archetypes](https://drive.google.com/open?id=165Tm-LVTwDEP1wsmcqNz4q-4WnyXRJcJ)
-- [Solid Colors](https://drive.google.com/open?id=1jbp5pRBgeOTWcJlOOXcRZlnN8ua9GgA7)
-- [Gradients](https://drive.google.com/open?id=14lxpr1vUMEbW6GycNtZIsXY5Pofw_Q8w)
-- [Typography](https://drive.google.com/open?id=1YTRjCPN7HIn4nilV-nBVPHhdEmvod0bY)
+https://invis.io/XANH515DCBS
