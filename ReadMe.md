@@ -6,7 +6,7 @@ Throughout this page you’ll be able to see and read through all of the publicl
 2. Prospective candidates can look through how our company is run to see if they’d fit within our culture.
 3. We help other people build great companies by replicating & modifying our documentation.
 
-Please send us comments & feedback as you read through the documentation to pascal@getawalkthrough.com. This is the only way we get better as a company. Enjoy!
+See at the bottom fo this wiki about contributing. We'd love & welcome your suggestions!
 
 ## Walkthrough Processes & Procedures
 
@@ -41,3 +41,12 @@ Please send us comments & feedback as you read through the documentation to pasc
 **Items To Add**
 - Vision
 - How we hire & what we look for
+
+<br>
+
+## Contributing to the Wiki
+All contributions are welcome and encouraged. An out of date wiki is so much worse than the occasional misleading new contribution, so please err on the side of sharing your knowledge. Wikis are best when they're living and evolving. As an async, remote team, let's create a wiki that reflects our commitment to this way of work! 🌍
+
+- Be the change you want to see on the wiki ✨ Just edit it directly on Github ✏️
+- Have more of a suggestion than an immediate change? Open a Pull Request 🙋🏽‍
+- Not sure what the right info is, but you can see the current docs are wrong? Open an issue 🤔
