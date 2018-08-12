@@ -14,6 +14,7 @@ Please send us comments & feedback as you read through the documentation to pasc
 
 - [Team](https://github.com/WalkthroughVR/Handbook/blob/master/Team.md)
 - [Values](https://github.com/WalkthroughVR/Handbook/blob/master/Values.md)
+- [Metrics](https://github.com/WalkthroughVR/Handbook/blob/master/Metrics.md)
 - [General Company Info](https://github.com/WalkthroughVR/Handbook/blob/master/GeneralAdminInfo.md)
 - [Projects we're working on](https://github.com/WalkthroughVR/Handbook/blob/master/Projects.md)
 - [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
