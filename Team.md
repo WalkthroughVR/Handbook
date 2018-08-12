@@ -15,8 +15,8 @@
 
 <br><br>
 **Product:**
-- UX/UI - Vacant
-- UX/UI - Vacant
+- UX/UI - [Meredith Elzea](https://www.linkedin.com/in/meredith-elzea/) (San Francisco, CA)
+- UX/UI - [Danita Delce](https://www.linkedin.com/in/danitadelce/) (Belgrade, Serbia)
 
 <br><br>
 **Operations:**
