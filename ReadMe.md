@@ -23,6 +23,7 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 
 - [Operating Principles](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/OperatingPrinciples.md)
 - [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md)
+  - [Explaining the value of equity](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/ExplainingEquity.md)
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/Tools.md)
 - [Measuring Culture](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/MeasuringCulture.md)
