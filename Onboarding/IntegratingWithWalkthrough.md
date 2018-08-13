@@ -6,7 +6,7 @@ Joining a new team can be one of the most stressful times of a new team member�
 
 1. First and foremost, take the time to review & sign the contract agreement that was sent to you over email & docusign. If you have any questions, definiltely don’t be afraid to reach out to pascal@getawalkthrough.com.
 
-1.  Signup for slack and add your photo to your profile so we know who we’re talking to!
+1.  Signup for slack and add your photo to your profile so we know who we’re talking to!  Be sure to enter your phone number and email to make it easy for other team members to reach out to you, if needed.
 <br>![Changing Slack Profile Photo](http://i66.tinypic.com/2wn5mpe.png)
 	1. Be sure to set up your notifications properly by following our [Slack onboarding guide](https://github.com/WalkthroughVR/InternalHandbook/blob/master/SlackOnboarding.md)
 
