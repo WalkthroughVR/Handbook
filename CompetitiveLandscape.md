@@ -8,12 +8,14 @@
 * https://www.immoviewer.com/
 * https://www.navvis.com/
 * http://www.e-rent.de/index.htm
+* https://hover.to/
 
 
 
 3D Scanning Tech & Providing Service To Realtors
 * https://real.vision/
 * https://www.insidemaps.com/
+* https://www.vrglobal.com/
 
 Photography Service Providers:
 * https://www.virtuance.com/
