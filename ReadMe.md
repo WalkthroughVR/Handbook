@@ -6,7 +6,7 @@ Throughout this page you’ll be able to see and read through all of the publicl
 2. Prospective candidates can look through how our company is run to see if they’d fit within our culture.
 3. We help other people build great companies by replicating & modifying our documentation.
 
-See at the bottom fo this wiki about contributing. We'd love & welcome your suggestions!
+See at the bottom of this wiki about contributing. We'd love & welcome your suggestions!
 
 ## Walkthrough Processes & Procedures
 
