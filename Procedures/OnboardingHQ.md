@@ -12,13 +12,15 @@
 1. Give Lastpass login access using company email
 1. Invite to all company meetings (Fortnightly Sprint, Daily Standup, Existencial calendar) invites using company email
 1. Set personal calendar reminder to review full employment after 1 month.
+1. Invite to Walkthrough team Google Calendar using company email.
 
 ## Official Full Team Member 
 1. Evaluate what influence level the team member falls into: I, II, III, IV, V
 1. Ask team member what their compensation choice is given their defined influence level: Salary, Equity or Equity+
 1. Send new team member contract using the template housed in docusign & add signed contract into GDrive.
-1. Add them as a employee into Gusto using personal email 
+1. Add them as an employee into Gusto using personal email 
 1. Add as team member on Angellist & Crunchbase
+1. Enter in Company Directory in GDrive.
 
 
 ## Not accounted for yet in this onboarding procedure:
