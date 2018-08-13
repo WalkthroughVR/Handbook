@@ -29,6 +29,8 @@ See at the bottom fo this wiki about contributing. We'd love & welcome your sugg
 - [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/TimeOff.md)
 
 **Procedures**
+
+- [Onboarding for new team members](https://github.com/WalkthroughVR/Handbook/blob/master/Onboarding/IntegratingWithWalkthrough.md)
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
 - [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
 - [Product Design & Testing](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/ProductDesignAndTesting.md)
