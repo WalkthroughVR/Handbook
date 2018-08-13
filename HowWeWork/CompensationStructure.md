@@ -20,7 +20,7 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 
 ### **Salary vs Equity Choic**e 
 
-- New team members after their first month of employment, have the choice of either choosing more salary or more equity. <br>
+- New team members after their first month of employment, have the choice of either choosing more salary or more equity.  [Here an an entire breakdown explaining how equity compensation works.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/ExplainingEquity.md) <br>
 ![](http://i65.tinypic.com/98d2c4.png)
 <br><br>
 
