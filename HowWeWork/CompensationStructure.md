@@ -32,8 +32,7 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 **Annually:** 
 - 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing.
 - $240/year Learning & Development Stipend - The Learning & Development stipend is available to support teammates’ ongoing self-improvement. This includes: Online courses (Treehouse, Udemy, Coursera, CodeAcademy etc.) Classes, live training (General Assembly, local courses etc.) Leadership coaching, & digital news subscriptions such as the Wall Street Journal and the Economist. It just need to be somewhat work related.
-- 28 Days Paid Time Off - Because team members may celebrate different holidays, we roll up paid time off and vacation time together. You may choose to work on Labor Day, so you should have the choice to take a different day off. We want for you to take a minimum of 2 weeks off per year to recharge!
-- 5 Days Bereavement Leave.
+- 2 Weeks minimum vacation - Vacation is always a sticky topic and what we've landed on is a minimum number of days off you should take per year. Often we may work weekends, late night or holidays because thats when we feel the most productive. As long as it doesn't impact your work and what you're able to complete - we want you to take off however much you need. We've never had an issue with someone taking too much time off, rather, we need to encourage people to take more vacation. We really encourage you take at least 2 weeks vacation per year. This policy also covers bereavement leave - take as much time as you need. 
 - 8 Weeks Maternity Leave w/ Full Pay - You can take as much time as you need thereafter unpaid. Your role will be waiting for you when you come back! You can also choose to take this time before birthy as well.
 
 
@@ -41,6 +40,13 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 **Additional Benefits:**
 - Buy and/or read any audible or kindle book on the company account.
 
+
+## **Key Expectations:**
+- **Errands** - You don't need to worry about taking time off to go to the gym, take a nap, go grocery shopping, doing household chores, helping someone, taking care of a loved one, etc. If something comes up or takes longer than expected and you have urgent tasks and you're able to communicate, just ensure the rest of the team knows and someone can pick up any urgent tasks.
+
+- **Vacation** - You do not need to ask permission to take time off. Always make sure that your job responsibilities are covered while you are away. We strongly recommended to take at least a minimum of 2 weeks of vacation per year, if you take less, we might follow up to review your work load.
+
+- **Checking Vacation Calendars** - You do need to ensure that not more than half of the people that can help with availability emergencies (the on-call heroes), regular support, sales, or development are gone at any moment. You can check for this on the availability calendar, so be sure to add appointments early. Add an appointment to the Walkthrough availability calendar (Internal Document) as you know your plans, you can always change it later.
 <br><br><br><br>
 
 ## What is not included:
