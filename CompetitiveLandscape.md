@@ -1,35 +1,33 @@
 3D Scanning Tech
-* http://sendreality.com/
-* https://geocv.com
-* https://matterport.com
-* https://canvas.io/
-* https://www.faro.com/
-* https://virtualrealestate3d.com/
-* https://www.immoviewer.com/
-* https://www.navvis.com/
-* http://www.e-rent.de/index.htm
-* https://hover.to/
-
-
+- [SendReality](http://sendreality.com/)
+- [GeoCV](https://geocv.com) - Uses Galaxy phone & Occipital sensor to HD 3D models. Struggling to get product into hands of business like ours do to software issues. 
+- [Matterport](https://matterport.com) - $3k cameras that produce HD 3D home models. Also do planes, boats, etc.
+- [Canvas.io](https://canvas.io/)
+- [FARO](https://www.faro.com/) - $10k cameras focusing on commercial & government projects
+- [Virtual Real Estate 3D](https://virtualrealestate3d.com/)
+- [Immoviewer](https://www.immoviewer.com/) - 3D 360 tours HQ'd in Europe.
+- [Navvis](https://www.navvis.com/) - Automated 360 capture device on wheels that services commercial & industrial properties. 
+- [Hover.to](https://hover.to/) - Create 3D models of your home with a phone intended for Contractors, 
 
 3D Scanning Tech & Providing Service To Realtors
-* https://real.vision/
-* https://www.insidemaps.com/
-* https://www.vrglobal.com/
+- [Real.Vision](https://real.vision/)
+- [InsideMaps](https://www.insidemaps.com/)
+- [VR Global](https://www.vrglobal.com/) - Creating 360's but intended for use with headsets
 
 Photography Service Providers:
-* https://www.virtuance.com/
-* https://www.planomatic.com/
-* https://www.myorbitmedia.com/
-* https://www.homejab.com/
-* http://homevisit.com/
-* http://allaccessphoto.com/services/
-* http://www.digitalmagicpro.com/Real-Estate/Package/
-* http://www.hotshotpros.com/
+- [Virtuance](https://www.virtuance.com/) - Photo editing algorithm makes homes look better than they are in person
+- [Planomatic](https://www.planomatic.com/)
+- [My Orbit Media](https://www.myorbitmedia.com/)
+- [Homejab](https://www.homejab.com/)
+- [HomeVisit](http://homevisit.com/)
+- [AllAccessPhoto](http://allaccessphoto.com/services/)
+- [DigitalMagicPro](http://www.digitalmagicpro.com/Real-Estate/Package/)
+- [HotShotPros](http://www.hotshotpros.com/) - Based in Denver, CO 
+- [E-rent](http://www.e-rent.de/index.htm) - 360 service in HQ'd Europe
 
 
 Misc:
-* https://spec.co/
-* https://buildout.com/
-* https://blockvue.com
-* https://www.meero.com/
+- [Spec](https://spec.co/)
+- [Buildout](https://buildout.com/)
+- [Blockvue](https://blockvue.com)
+- [Meero](https://www.meero.com/)
