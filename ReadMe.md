@@ -32,10 +32,10 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 **Procedures**
 
 - [Onboarding for new team members](https://github.com/WalkthroughVR/Handbook/blob/master/Onboarding/IntegratingWithWalkthrough.md)
+    - [HQ's process for onboarding a new team member](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/OnboardingHQ.md)
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
 - [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
 - [Product Design & Testing](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/ProductDesignAndTesting.md)
-- [Onboarding New Team Members](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/OnboardingHQ.md)
 
 **FAQ**
 - [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
