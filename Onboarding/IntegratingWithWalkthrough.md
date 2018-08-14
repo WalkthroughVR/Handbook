@@ -29,6 +29,10 @@ Joining a new team can be one of the most stressful times of a new team memberâ€
 
 1. Before your first day you might want to have a better understanding of who does what on the team and what their rolesâ€™ expectations are. You can find an entire breakdown of that with our [team breakdown & org chart](https://github.com/WalkthroughVR/Handbook/blob/master/Team.md).
 
+1. We've outlined what equity compensation looks like, why we have it, and what it means to you. [All of that is broken down here.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/ExplainingEquity.md)
+
+1. We've added several videos for you to watch and become familiar with all of Walkthrough's existing processes and procedures so that understand what systems we have internally here. [Those videos are accessible here](https://github.com/WalkthroughVR/InternalHandbook/blob/master/WalkthroughSystemsOverview.md) if you have access to our private github repositories. 
+
 1. And lastly, before you attend your first team meeting, you may want to get a better understanding of what meetings we have, how often they are, and what they usually entail. You can find all of that information [here.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 	1. As a side note, you should have already received a calendar invitation to all of the meetings above. If you havenâ€™t, be sure to email pascal@getawalkthrough.com and heâ€™ll be sure to add you to each scheduled meeting!
 
@@ -37,4 +41,3 @@ Joining a new team can be one of the most stressful times of a new team memberâ€
 ## Not addressed yet
 - How do I show my calendar & availability to the rest of the team?
 - How do I add tickets and setup tasks into the Sprint Kanban board?
-- Explaining company equity
