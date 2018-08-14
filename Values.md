@@ -14,9 +14,8 @@ The following values are what we’ve come up with to date, that we believe in a
 2. **(Doing the) right thing**
     1. Details:
         1. Choose whats best for customers and the company in the long-term
-        2. Correct mistakes even when no one would notice
-        3. Strive for the best solution, even if that means forgoing profit
-        4. Get excited about opportunities to help others
+        1. Correct mistakes even when no one would notice
+        1. Get excited about opportunities to help others
 
     2. In Practice:
         1. One of our photographers had their shoes stolen while working at a property as the homeowner asked them to take them off and leave them outside. We chose to pay for a new set of shoes for them.
