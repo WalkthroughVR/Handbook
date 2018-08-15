@@ -1,7 +1,7 @@
 # Team Breakdown
 **Executive Team**
 - CEO - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
-- [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - Vacant
+- [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - [Blake Yeager](https://www.linkedin.com/in/blakeyeager/) (Denver, CO)
 - [Head of Growth](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/VPofGrowth.md) - Vacant
 
 <br><br>
@@ -32,8 +32,8 @@
 - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
 - [Sean Ammirati (Birchmere Ventures)](https://www.linkedin.com/in/seanammirati/) (Pittsburgh, PA)
 - [Mike Klein (Zero G Capital)](https://www.linkedin.com/in/michael-klein-5506b31b/) (Denver, CO)
-- Vacant Seat
-- Vacant Seat
+- Common Vacant Seat
+- Independent Vacant Seat
 
 
 
