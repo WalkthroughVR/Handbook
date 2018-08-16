@@ -27,7 +27,7 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/Tools.md)
 - [Measuring Culture](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/MeasuringCulture.md)
-- [Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/TimeOff.md)
+- [Benefits & Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md#benefits)
 
 **Procedures**
 
