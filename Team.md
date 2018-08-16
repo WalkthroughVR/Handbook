@@ -1,4 +1,4 @@
-# Team Breakdown
+## Team Breakdown
 **Executive Team**
 - CEO - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
 - [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - [Blake Yeager](https://www.linkedin.com/in/blakeyeager/) (Denver, CO)
@@ -27,24 +27,27 @@
 - [Support](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/CustomerService.md) - Esmee Louise Koc (Side, Turkey)
 - [Support](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/CustomerService.md) - Adele Coxhead (Side, Turkey)
 
-<br><br>
-**Board of Directors**
-- [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
-- [Sean Ammirati (Birchmere Ventures)](https://www.linkedin.com/in/seanammirati/) (Pittsburgh, PA)
-- [Mike Klein (Zero G Capital)](https://www.linkedin.com/in/michael-klein-5506b31b/) (Denver, CO)
-- Common Vacant Seat
-- Independent Vacant Seat
-
-
 
 <br><br>
 **Want to join the Walkthrough team?** <br>
 See all of our current open job roles here:<br>
 http://angel.co/walkthroughvr/jobs
 
+<br><br>
+## Board of Directors
+The board of directors is comprised of 5 individuals including 2 common stock stakeholders, 2 investor stakeholders and 1 independent stakeholder. There are currently no board observers at this time. 
+
+- Common - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
+- Common - Vacant Seat
+- Investor - [Sean Ammirati (Birchmere Ventures)](https://www.linkedin.com/in/seanammirati/) (Pittsburgh, PA)
+- Investor - [Mike Klein (Zero G Capital)](https://www.linkedin.com/in/michael-klein-5506b31b/) (Denver, CO)
+- [Independent](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/IndependentBoardMember.md) - Vacant Seat
+
+
+
 
 <br><br>
-# Company Org Chart
+## Company Org Chart
 ![Company Organization Chart](http://i67.tinypic.com/2l8zva1.png)
 
 
