@@ -15,8 +15,8 @@
 
 <br><br>
 **Product:**
-- UX/UI - [Meredith Elzea](https://www.linkedin.com/in/meredith-elzea/) (San Francisco, CA)
-- UX/UI - [Danita Delce](https://www.linkedin.com/in/danitadelce/) (Belgrade, Serbia)
+- [Product Designer](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/ProductDesigner.md) - [Meredith Elzea](https://www.linkedin.com/in/meredith-elzea/) (San Francisco, CA)
+- [Product Designer](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/ProductDesigner.md) - [Danita Delce](https://www.linkedin.com/in/danitadelce/) (Belgrade, Serbia)
 
 <br><br>
 **Operations:**
