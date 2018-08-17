@@ -22,7 +22,7 @@ The Independent Board Member acts as an intermediary for the Board of Directors.
 ## A great Independent board member ideally has the following qualities or experience:
 - Ability to be brutally honest, calling out weaknesses and problems they see, while delivering feedback in a calm and constructive fashion. 
 - Expertise in scaling a company at a managerial level from below ~$10M to above $50M in ARR. 
-- Previously or currently participated on a board of directors.
+- Previously or currently participate on a board of directors.
 - Experience in planning or launching a market by market, marketplace business. 
    - Uber, Doordash, Instacart are great examples. 
    - Amazon, Spotify, and Twitter would not be the ideal fit.
