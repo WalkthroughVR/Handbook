@@ -13,8 +13,8 @@ Currently X which causes Y.
 Building XYZ will decrease our time spent doing ABC by 10% from X to Y. 
 
 ## Solution/Requirements:
-- Requirement 1
-- Requirement 2
+- [ ] Requirement 1
+- [ ] Requirement 2
 
 ## What we should learn:
 - Put what we should learn here
