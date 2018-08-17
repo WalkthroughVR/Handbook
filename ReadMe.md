@@ -17,6 +17,7 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 - [Metrics](https://github.com/WalkthroughVR/Handbook/blob/master/Metrics.md)
 - [General Company Info](https://github.com/WalkthroughVR/Handbook/blob/master/GeneralAdminInfo.md)
 - [Projects we're working on](https://github.com/WalkthroughVR/Handbook/blob/master/Projects.md)
+  - [Live Product Roadmap](https://github.com/WalkthroughVR/Handbook/projects/2)
 - [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
 **How We Work**
