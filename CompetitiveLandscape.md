@@ -2,7 +2,8 @@
 - [SendReality](http://sendreality.com/)
 - [GeoCV](https://geocv.com) - Uses Galaxy phone & Occipital sensor to HD 3D models. Struggling to get product into hands of business like ours do to software issues. 
 - [Matterport](https://matterport.com) - $3k cameras that produce HD 3D home models. Also do planes, boats, etc.
-- [Canvas.io](https://canvas.io/)
+- [Canvas.io](https://canvas.io/) - $400 sensor + Ipad + $30/room to create 3D models.
+- [Indoor Reality](http://www.indoorreality.com/) - $600 pano kit + $25/mo or more subscription to use your phone to 3D Scan rooms. 
 - [FARO](https://www.faro.com/) - $10k cameras focusing on commercial & government projects
 - [Virtual Real Estate 3D](https://virtualrealestate3d.com/)
 - [Immoviewer](https://www.immoviewer.com/) - 3D 360 tours HQ'd in Europe.
