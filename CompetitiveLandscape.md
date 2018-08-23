@@ -1,4 +1,9 @@
-3D Scanning Tech
+## Tech Map
+![Competitive Landscape Map](http://i63.tinypic.com/2iax3c5.png)
+
+## Breakdown of companies
+
+**3D Scanning Tech**
 - [SendReality](http://sendreality.com/)
 - [GeoCV](https://geocv.com) - Uses Galaxy phone & Occipital sensor to HD 3D models. Struggling to get product into hands of business like ours do to software issues. 
 - [Matterport](https://matterport.com) - $3k cameras that produce HD 3D home models. Also do planes, boats, etc.
@@ -12,12 +17,12 @@
 - [Zillow](https://www.zillow.com/marketing/real-estate-photography/)
 
 
-3D Scanning Tech & Providing Service To Realtors
+**3D Scanning Tech & Providing Service To Realtors**
 - [Real.Vision](https://real.vision/)
 - [InsideMaps](https://www.insidemaps.com/)
 - [VR Global](https://www.vrglobal.com/) - Creating 360's but intended for use with headsets
 
-Photography Service Providers:
+**Photography Service Providers:**
 - [Virtuance](https://www.virtuance.com/) - Photo editing algorithm makes homes look better than they are in person
 - [Planomatic](https://www.planomatic.com/)
 - [My Orbit Media](https://www.myorbitmedia.com/)
@@ -29,11 +34,8 @@ Photography Service Providers:
 - [E-rent](http://www.e-rent.de/index.htm) - 360 service in HQ'd Europe
 
 
-Misc:
+**Misc:**
 - [Spec](https://spec.co/)
 - [Buildout](https://buildout.com/)
 - [Blockvue](https://blockvue.com)
 - [Meero](https://www.meero.com/)
-
-
-
