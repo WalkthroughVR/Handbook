@@ -31,7 +31,7 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 - [Benefits & Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md#benefits)
 
 **Procedures**
-
+- [Hiring & Interviews](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md)
 - [Onboarding for new team members](https://github.com/WalkthroughVR/Handbook/blob/master/Onboarding/IntegratingWithWalkthrough.md)
     - [HQ's process for onboarding a new team member](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/OnboardingHQ.md)
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
