@@ -21,7 +21,7 @@ Today, the questions we ask to determine how we’re doing on a scale of 1-10 ar
 
 5. **Does my supervisor or someone at work seem to care about me as a person?**  (Do we know who our team members are as people, not employees?)
 
-6.**Is there someone at work who encourages my development?**  (Do we provide opportunities for our staff to learn new skills and feel like they are moving forward?)
+6. **Is there someone at work who encourages my development?**  (Do we provide opportunities for our staff to learn new skills and feel like they are moving forward?)
 
 7. **At work, do my opinions seem to count? (People leave managers, not jobs.**  What structure do we have in place for our team members to provide their feedback?  And do we listen when it's given?)
 
