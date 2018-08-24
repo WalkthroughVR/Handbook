@@ -9,7 +9,7 @@ We’ve outlined our hiring process to not only give candidates the ins and outs
 1. [Technical Challenge/Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#5-technical-challengeinterview) (1-3 hours)
 1. [Lightning Talk](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#6-lightning-talk) (45 min)
 1. [Contract To Hire](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#7-homework-andor-independent-contract-period) (1 Month)
-1. [Full Time Transition]() 
+1. [Full Time Transition](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#8-full-time-transition) 
 
 <br><br>
 ## Metrics
@@ -145,6 +145,7 @@ Throughout the lightning talk, the key things we’re looking to evaluate are:
 <br><br>
 ## 7) Homework and/or Independent Contract Period
 To be added.
+
 
 ## 8) Full Time transition
 To be added.
