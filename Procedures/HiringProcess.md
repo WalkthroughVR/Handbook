@@ -146,6 +146,9 @@ Throughout the lightning talk, the key things we’re looking to evaluate are:
 ## 7) Homework and/or Independent Contract Period
 To be added.
 
+## 8) Full Time transition
+To be added.
+
 
 <br><br>
 ## What is not taken into account throughout the interview process as of now:
