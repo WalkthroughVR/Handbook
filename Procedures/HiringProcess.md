@@ -2,14 +2,14 @@
 We’ve outlined our hiring process to not only give candidates the ins and outs to know what we’re looking for but to also give our team a standard process for understanding which candidates would be the best fit for our organization. 
 
 ##  Hiring Process Overview
-1. Initial survey submission (5 min)
-1. Written email submission (30 min)
-1. Culture Interview (30 min)
-1. 2nd Culture Interview (60 min)
-1. Technical Challenge/Interview (1-3 hours)
-1. Lightning Talk (45 min)
-1. Contract To Hire (1 Month)
-1. Full Time Transition 
+1. [Initial survey submission](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#1-initial-survey-submission) (5 min)
+1. [Written email submission](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#2-longer-written-submission) (30 min)
+1. [Culture Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#3-first-cultural-interview) (30 min)
+1. [2nd Culture Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#4-follow-up-cultural-interview) (60 min)
+1. [Technical Challenge/Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#5-technical-challengeinterview) (1-3 hours)
+1. [Lightning Talk](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#6-lightning-talk) (45 min)
+1. [Contract To Hire](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#7-homework-andor-independent-contract-period) (1 Month)
+1. [Full Time Transition]() 
 
 <br><br>
 ## Metrics
