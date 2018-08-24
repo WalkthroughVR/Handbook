@@ -33,7 +33,7 @@ Today, the questions we ask to determine how we’re doing on a scale of 1-10 ar
 
 11. **In the last 6 months, has someone talked to me about my progress?**  (Are we providing regular reviews and feedback to help people with a sense of direction at work?)
 **
-12. **This last year, have I had the opportunity at work to learn and grow?  (Are we providing opportunities for advancement?)
+12. **This last year, have I had the opportunity at work to learn and grow?**  (Are we providing opportunities for advancement?)
 
 13. **How long have you been with Walkthrough?**
     1. <1 month
