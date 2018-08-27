@@ -59,3 +59,10 @@ The VP of Growth is a direct report to the CEO and is responsible for the growth
   - Zillow, Reali, Open Listings are the great real estate examples. 
   - Uber, Doordash, Instacart are similar examples.
   - Amazon, Spotify, and Twitter would not be the ideal fit.
+
+## Additional Expectations
+1. Today, the head of growth reports each sprint cycle on the following metrics:
+  1. Brokerage presentations completed
+  1. New signups (& by source)
+  1. New listings
+  1. New whales signed up  (12 or more listings per year)
