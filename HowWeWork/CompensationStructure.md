@@ -47,17 +47,23 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 - **Vacation** - You do not need to ask permission to take time off. Always make sure that your job responsibilities are covered while you are away. We strongly recommended to take at least a minimum of 2 weeks of vacation per year, if you take less, we might follow up to review your work load.
 
 - **Checking Vacation Calendars** - You do need to ensure that not more than half of the people that can help with availability emergencies (the on-call heroes), regular support, sales, or development are gone at any moment. You can check for this on the availability calendar, so be sure to add appointments early. Add an appointment to the Walkthrough availability calendar (Internal Document) as you know your plans, you can always change it later.
-<br><br><br><br>
+
+- **Working Hours** - Although team members can work any hours of their choosing, we ask that everyone be available for meetings anytime between 10am - 3:00pm, Mondays through and including Fridays.
+
+- **Talent vs Travel** - We choose to hire remotely because we want to find the best talent and not be limited by geography. Team members may move across the country or even choose rotate their home base every so often but this is very different than team members who want to work remotely because they can travel while working.
+
+<br><br>
 
 ## What is not included:
 * Location - Today we do not adjust salaries based on where a person lives. 
 * Dependents
 
+<br><br>
 
 ## Things we don’t take account of today which we’d like to solve:
 * Taxes - For example if you live in a country where taxes are closer to 40-50% of your earnings. 
 * Exchange rate changes - Because we’re a distributed team, if the exchange rate works in your favor that is obviously a good thing. What happens when the exchange rate drops?
 * Loyalty - Should a teammate  with us at Walkthrough, automatically receive a pay raise of 5% every year? 
-
+* Management vs Senior level skill
 
 ** Thank you to Buffer for being so open about their compensation model which is where we've built the base of our compensation model. **
