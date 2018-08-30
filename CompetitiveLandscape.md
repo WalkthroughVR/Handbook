@@ -43,4 +43,4 @@
 
 
 ## Photography Service Provider Pricing Breakdown
-![Pricing Breakdown](http://i67.tinypic.com/10pdk7s.png)
+![Pricing Breakdown](http://i67.tinypic.com/10pdk7s.jpg)
