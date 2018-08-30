@@ -48,7 +48,6 @@ Today, the questions we ask via google form are:
 - Do you have any additional website/blog/portfolio? 
 - What additional materials, if any, can we provide you upfront to help you decide if applying is worth your time? 
 - What are the last 5 books you read and why? 
-- What are 3 things you’ve tried or currently do, to improve your productivity/life?  
 
 
 <br><br>
@@ -89,6 +88,7 @@ From our perspective, throughout the first interview the key things we’re look
 
 The questions we ask in the first interview in no particular order are: 
 
+- Can you start by giving me a quick summary of you? Personally & Professionally?
 - How did you prepare for this interview?
 - What attracted you to this role?
 - Why are you looking to make a switch now vs 6 months ago?
@@ -96,16 +96,19 @@ The questions we ask in the first interview in no particular order are:
 - What book would you recommend everyone in our startup read & why?
 - How are you deciding between companies to work with?
 - What does success look like for you in this role? What do you think would make you feel happy or fulfilled working here for the next several years?  
-
-
-
+- What hours do you enjoy working? 
 
 
 <br><br>
 ## 4) Follow Up Cultural Interview
-The idea of the second interview is more of an extension of our first call. Here we may cover the questions we missed in our first interaction and we should be covering additional questions each other have. 
+The idea of the second interview is more of an extension of our first call. Here we may cover the questions we missed in our first interaction and we should be covering additional questions each other have. Additional questions we may ask are:
 
-
+- What do you like to do outside of work?
+- What are you looking for in a new position?
+- Why are you leaving your current job?
+- What other companies are you interviewing with and what makes them intriguing?
+- What are a few things you really enjoy at your current company and what would you change?
+- Are you a "move fast, break things" or a "let's do this right the first time" kind of person?
 
 
 <br><br>
@@ -144,7 +147,11 @@ Throughout the lightning talk, the key things we’re looking to evaluate are:
 
 <br><br>
 ## 7) Homework and/or Independent Contract Period
-To be added.
+Throughout this session you'll attend all of our meetings and be integrated as a full team member. Along with regular feedback from the leadership team, here is how you can self evaluate if you're on track!
+
+- Within your first week you should be curious and consistently asking questions; "Why are we doing things this way". This is a sign for us that you're deeply engaged. In your mind there should be thoughts on how can we improve each process. 
+
+- Actually driving a change in the organization. Not everything is worth making an adjustment to but you should be aiming to make many micro adjustments instead of taking on a large project. It's compounding baby steps that we value in our team!
 
 <br><br>
 ## 8) Full Time transition
