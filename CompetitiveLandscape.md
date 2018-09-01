@@ -44,3 +44,15 @@
 
 ## Photography Service Provider Pricing Breakdown
 ![Pricing Breakdown](http://i67.tinypic.com/10pdk7s.jpg)
+
+<br><br>
+## Customer Breakdown - Realtor
+![Realtor Segmentation](http://i63.tinypic.com/208u3p5.png)
+
+<br><br>
+
+## Customer Breakdown - Photographer
+![Photographer Breakdown](http://i65.tinypic.com/2s7svw8.png)
+
+<br><br>
+Find the full updated links on the customer profiles [here.](https://docs.google.com/spreadsheets/d/1KlmYuc7BEkeBNk_8sAKhmky1jTRhPcIyIcIM7aBd8bY/edit#gid=1966289694)
