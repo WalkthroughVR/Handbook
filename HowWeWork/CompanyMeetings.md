@@ -1,5 +1,11 @@
-Walkthrough currently has 3 official meetings that we use as a team to make sure we're all on the same page as a company. 
 
+
+##  Daily Standup - 10am-10:30am MST every day but not when we have sprint
+1. Write daily update & make sure your asana tasks are up to date - prior to 10a, by 9:45a
+1. Read everyone’s responses, ask clarifying questions
+1. Review Gitbut tasks, first looking at those that Depend on Others and In the Pen
+1. Review OKR
+1. Where are we & What can each of us do today/tomorrow to get closer to our goal?
 
 
 ## Fortnightly Sprint - 10am-12pm MST every other Monday
@@ -30,17 +36,14 @@ Walkthrough currently has 3 official meetings that we use as a team to make sure
    1. Talking/Discussion Points
 
 
-##  Daily Standup - 10am-10:30am MST every day but not when we have sprint
-1. Write daily update & make sure your asana tasks are up to date - prior to 10a, by 9:45a
-1. Read everyone’s responses, ask clarifying questions
-1. Review Gitbut tasks, first looking at those that Depend on Others and In the Pen
-1. Review OKR
-1. Where are we & What can each of us do today/tomorrow to get closer to our goal?
-
-
 
 ## Existential - 10:30am-12pm MST every other Friday
+Existencial is a meeting for us to connect on any business related topic, not to necissarly achieve consensus, but rather allow everyone to weigh in and receive additional insights on a topic.
 
-This is where we discuss topics that we may not be aligned on. This may include: 
+Topics may include: 
 * I don’t think we should be build X, maybe we should build Y. 
 * I’m struggling with building a great customer service team, can we afford to do X?
+
+
+## Ad Hoc Watercooler Conversation
+At Walkthrough, because we're a remote team, when we have emetings with our teammates, they are usually structured around getting a piece of business accomplished. To make sure we actually have time to connect with our teammates on a personal level, on a weekly basis we pair teammates up in the company to schedule their own 1-1 time. On top of that, this also gives new people within the team to have an opportunity to connect with team members when they join and feel more apart of our community. 
