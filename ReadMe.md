@@ -13,7 +13,7 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 **General**
 
 - [Team](https://github.com/WalkthroughVR/Handbook/blob/master/Team.md)
-- [Values](https://github.com/WalkthroughVR/Handbook/blob/master/Values.md)
+- [Values & Operating Principles](https://github.com/WalkthroughVR/Handbook/blob/master/Values.md)
 - [Metrics](https://github.com/WalkthroughVR/Handbook/blob/master/Metrics.md)
 - [General Company Info](https://github.com/WalkthroughVR/Handbook/blob/master/GeneralAdminInfo.md)
 - [Projects we're working on](https://github.com/WalkthroughVR/Handbook/blob/master/Projects.md)
@@ -22,7 +22,6 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
 
 **How We Work**
 
-- [Operating Principles](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/OperatingPrinciples.md)
 - [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md)
   - [Explaining the value of equity](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/ExplainingEquity.md)
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
