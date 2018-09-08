@@ -20,25 +20,31 @@ See at the bottom of this wiki about contributing. We'd love & welcome your sugg
   - [Live Product Roadmap](https://github.com/WalkthroughVR/Handbook/projects/2)
 - [Competitive Landscape](https://github.com/WalkthroughVR/Handbook/blob/master/CompetitiveLandscape.md)
 
-**How We Work**
 
+**Hiring**
 - [Compensation Structure](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md)
   - [Explaining the value of equity](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/ExplainingEquity.md)
+- [Hiring & Interviews](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md)
+  - [New Hire - 4 Week Trial Period Agreement](https://docs.google.com/document/d/1VWgftT8LAIHrBd_jrLYPi_Vzmmu60pW85rALE-hhMW4/edit?usp=sharing)
+  - [Full Time Hire Contract](https://docs.google.com/document/d/1AaIJQDfjvNENBv17lC3OLc2Yf6DYrLnbZNsBsrUy_-I/edit?usp=sharing)
+- [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
+- [Onboarding for new team members](https://github.com/WalkthroughVR/Handbook/blob/master/Onboarding/IntegratingWithWalkthrough.md)
+    - [HQ's process for onboarding a new team member](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/OnboardingHQ.md)
+
+
+**How We Work**
 - [Meeting Types & Cadences](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 - [Tools We use](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/Tools.md)
 - [Measuring Culture](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/MeasuringCulture.md)
 - [Benefits & Time Off](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md#benefits)
 
 **Procedures**
-- [Hiring & Interviews](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md)
-- [Onboarding for new team members](https://github.com/WalkthroughVR/Handbook/blob/master/Onboarding/IntegratingWithWalkthrough.md)
-    - [HQ's process for onboarding a new team member](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/OnboardingHQ.md)
+
 - [Creating Tasks For Sprint](https://github.com/WalkthroughVR/Handbook/blob/master/CreatingTasksForSprint.md)
 - [Developer Ticket Submission](https://github.com/WalkthroughVR/Handbook/blob/master/DeveloperTicketSubmission.md)
 - [Product Design & Testing](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/ProductDesignAndTesting.md)
 
 **FAQ**
-- [Common Hiring Questions](https://github.com/WalkthroughVR/Handbook/blob/master/CommonHiringQuestions.md)
 - [Monthly Company Updates](https://github.com/WalkthroughVR/Handbook/blob/master/MonthlyCompanyUpdates.md)
 
 **Items To Add**
