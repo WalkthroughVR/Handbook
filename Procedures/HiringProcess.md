@@ -165,7 +165,7 @@ Throughout this process, we'll meet with you weekly to give you feedback on your
 
 <br><br>
 ## 9) Full Time Offer
-To be added.
+Throughout the entire independent contract period, you will have a very clear idea of if working is a good fit based on your experience and our feedback. Once we've all agreed it's a great fit to move forward, you'll have the option to choose your compensation package - whether you would rather have more salary, or more equity. All of the compensation options are outlined in detail [here.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md) 
 
 <br><br>
 ## What is not taken into account throughout the interview process as of now:
