@@ -98,9 +98,12 @@ The questions we ask in the first interview in no particular order are:
 - What does success look like for you in this role? What do you think would make you feel happy or fulfilled working here for the next several years?  
 - What hours do you enjoy working? 
 
+<br><br>
+## 4) Homework
+The next piece of the interview process is to really understand your ability to look at our company and identify what are quick adjustments that can be made that will build momentum within our organization. For this homework task, we'd love for you to identify 10 things on our website, application, or anything else that you'd make an adjustment to.
 
 <br><br>
-## 4) Follow Up Cultural Interview
+## 5) Follow Up Cultural Interview
 The idea of the second interview is more of an extension of our first call. Here we may cover the questions we missed in our first interaction and we should be covering additional questions each other have. Additional questions we may ask are:
 
 - What do you like to do outside of work?
@@ -112,11 +115,11 @@ The idea of the second interview is more of an extension of our first call. Here
 
 
 <br><br>
-## 5) Technical Challenge/Interview
-To be added
+## 6) Technical Challenge/Interview
+More to be added
 
 <br><br>
-## 6) Lightning Talk
+## 7) Lightning Talk
 Throughout the lightning talk, the key things we’re looking to evaluate are:
 
 - Do they pull the energy out of the room or do they add to it? 
@@ -146,17 +149,23 @@ Throughout the lightning talk, the key things we’re looking to evaluate are:
 
 
 <br><br>
-## 7) Homework and/or Independent Contract Period
-Throughout this session you'll attend all of our meetings and be integrated as a full team member. Along with regular feedback from the leadership team, here is how you can self evaluate if you're on track!
+## 8) 4 Week Independent Contract Period
+Throughout this session you'll attend all of our meetings and be integrated as a full team member. Along with regular feedback from the leadership team, here is how you can self evaluate if you're on track! This period can be started part-time with the expectation that the 4 week contract period will begin once you're able to switch over full time.  
 
 - Within your first week you should be curious and consistently asking questions; "Why are we doing things this way". This is a sign for us that you're deeply engaged. In your mind there should be thoughts on how can we improve each process. 
 
 - Actually driving a change in the organization. Not everything is worth making an adjustment to but you should be aiming to make many micro adjustments instead of taking on a large project. It's compounding baby steps that we value in our team!
 
-<br><br>
-## 8) Full Time transition
-To be added.
+- Within your first week or even your first day, you should be able to come up with quick wins. Whether it's changing the wording on a few pages because they don't make sense or correcting a few bugs, you should be able to contribute immediate and bite size iterations within the first few days of being on the team. 
 
+- You should be proactive in taking on tasks, leading and being responsible for one of our weekly growth iniatives, and showing us that you're able to make quick, practical contributions.
+
+Throughout this process, we'll meet with you weekly to give you feedback on your meeting of company expectations.
+
+
+<br><br>
+## 9) Full Time Offer
+To be added.
 
 <br><br>
 ## What is not taken into account throughout the interview process as of now:
