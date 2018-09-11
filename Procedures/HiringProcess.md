@@ -5,6 +5,7 @@ We’ve outlined our hiring process to not only give candidates the ins and outs
 1. [Initial survey submission](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#1-initial-survey-submission) (5 min)
 1. [Written email submission](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#2-longer-written-submission) (30 min)
 1. [Culture Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#3-first-cultural-interview) (30 min)
+1. [Homework](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#4-homework) (30 min)
 1. [2nd Culture Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#4-follow-up-cultural-interview) (60 min)
 1. [Technical Challenge/Interview](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#5-technical-challengeinterview) (1-3 hours)
 1. [Lightning Talk](https://github.com/WalkthroughVR/Handbook/blob/master/Procedures/HiringProcess.md#6-lightning-talk) (45 min)
@@ -96,7 +97,10 @@ The questions we ask in the first interview in no particular order are:
 - What book would you recommend everyone in our startup read & why?
 - How are you deciding between companies to work with?
 - What does success look like for you in this role? What do you think would make you feel happy or fulfilled working here for the next several years?  
+- What do you think working in a startup means? Give me examples of what a typical day would be like at start up in the past.  
 - What hours do you enjoy working? 
+
+Additionally, we're paying attention to the questions that *you ask*. We learn more about a candidate and their questions than the ones we ask because we understand more of what is important to them. If someone comes to an interview and only has  a few questions, that's a red flag. Don’t have questions to ask - google a few and you’ll realize what you should be asking us. That being said, be sure you’re not asking a question that is already addressed in this handbook.
 
 <br><br>
 ## 4) Homework
@@ -106,12 +110,14 @@ The next piece of the interview process is to really understand your ability to 
 ## 5) Follow Up Cultural Interview
 The idea of the second interview is more of an extension of our first call. Here we may cover the questions we missed in our first interaction and we should be covering additional questions each other have. Additional questions we may ask are:
 
-- What do you like to do outside of work?
+- What do you like to do when you are not working?
 - What are you looking for in a new position?
 - Why are you leaving your current job?
 - What other companies are you interviewing with and what makes them intriguing?
 - What are a few things you really enjoy at your current company and what would you change?
 - Are you a "move fast, break things" or a "let's do this right the first time" kind of person?
+- At work what types of activities do you find fulfilling. At work what are objectives or activities that you get excited over And why?
+- Talk to me about your teenage years - what was it like? Did you work hard when you were a teenager? Give an example. 
 
 
 <br><br>
@@ -158,7 +164,7 @@ Throughout this session you'll attend all of our meetings and be integrated as a
 
 - Within your first week or even your first day, you should be able to come up with quick wins. Whether it's changing the wording on a few pages because they don't make sense or correcting a few bugs, you should be able to contribute immediate and bite size iterations within the first few days of being on the team. 
 
-- You should be proactive in taking on tasks, leading and being responsible for one of our weekly growth iniatives, and showing us that you're able to make quick, practical contributions.
+- You should be proactive in taking on tasks, leading and being responsible for one of our weekly growth iniatives, and showing us that you're able to make quick, practical contributions. I.E. Are you volunteering to take on projects?
 
 Throughout this process, we'll meet with you weekly to give you feedback on your meeting of company expectations.
 
@@ -167,6 +173,8 @@ Throughout this process, we'll meet with you weekly to give you feedback on your
 ## 9) Full Time Offer
 Throughout the entire independent contract period, you will have a very clear idea of if working is a good fit based on your experience and our feedback. Once we've all agreed it's a great fit to move forward, you'll have the option to choose your compensation package - whether you would rather have more salary, or more equity. All of the compensation options are outlined in detail [here.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompensationStructure.md) 
 
+Also when you join full time, you'll do photography shoot & customer support at least once a year, regardless of your position. We believe an early and ongoing connection with the people we serve and better understanding our teammates roles will help build a great organization and product. 
+
 <br><br>
 ## What is not taken into account throughout the interview process as of now:
 - Role specific interviews
@@ -174,3 +182,4 @@ Throughout the entire independent contract period, you will have a very clear id
 - When do we review the financial model w/ candidates & does that have an impact in the hiring process?
 - How do we, if at all, gauge their ability to work remotely?
 - Being more clear about exact compensation someone may receive when joining Walkthrough before applying. 
+- There is no formal process for reference checks. We have done them in the past for specific candidates but may not happen every time. 
