@@ -64,6 +64,4 @@ The COO is the second in command and partner to the CEO responsible for the effe
 
 - By September 1st - Initial metrics that you believe HQ should be tracking. Also defining metrics you believe the support, engineering, and operations team should be held accountable to.
 
-- By October 1st - Tech in place to expand into surrounding Colorado areas (Boulder, CO Springs, Fort Collins). Also revised financial model of how we would obtain 20% MoM growth starting January (operationally - how many cities do we need to launch into, what do we need to have in place).
 
-- By January 1st - Tech implemented to have phone taking both 360 & high resolution photos automatically growing total gross margin by 20%.

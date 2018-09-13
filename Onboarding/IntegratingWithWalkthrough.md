@@ -33,6 +33,8 @@ Joining a new team can be one of the most stressful times of a new team member�
 
 1. We've added several videos for you to watch and become familiar with all of Walkthrough's existing processes and procedures so that understand what systems we have internally here. [Those videos are accessible here](https://github.com/WalkthroughVR/InternalHandbook/blob/master/WalkthroughSystemsOverview.md) if you have access to our private github repositories. 
 
+1. Download the [ZenHub chrome extension](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US) that we'll use to manage all of our work.
+
 1. And lastly, before you attend your first team meeting, you may want to get a better understanding of what meetings we have, how often they are, and what they usually entail. You can find all of that information [here.](https://github.com/WalkthroughVR/Handbook/blob/master/HowWeWork/CompanyMeetings.md)
 	1. As a side note, you should have already received a calendar invitation to all of the meetings above. If you haven’t, be sure to email pascal@getawalkthrough.com and he’ll be sure to add you to each scheduled meeting!
 
