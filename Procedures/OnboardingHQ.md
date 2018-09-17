@@ -7,7 +7,7 @@
 1. Add to mailchimp monthly update list using personal email
 1. [Invite to GitHub Repository](https://github.com/orgs/WalkthroughVR/people) using personal email address
 1. Add to slack using personal email
-1. [Give Lastpass login access using personal email](https://lastpass.com/)
+1. [Give Lastpass login access using walkthrough email](https://lastpass.com/)
 1. [Add them as a contractor into Gusto using personal email](http://gusto.com/)
 1. Give access to the entire [Google Drive](https://drive.google.com/drive/u/0/folders/0B7J_cd4A00rtS0JMU0c4VzBVTUU) using company Email
 1. Invite to all company meetings (Fortnightly Sprint, Daily Standup, Existencial calendar) invites using company email
