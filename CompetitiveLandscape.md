@@ -34,6 +34,13 @@
 - [E-rent](http://www.e-rent.de/index.htm) - 360 service in HQ'd Europe
 
 
+**Multiple Service Providers**
+- [Takl](https://takl.com) - They are directed towards helping consumers with everyday tasks
+- [Angies List](https://www.angieslist.com/) - Marketplace of contractors. Main difference is that the customer needs to vet the contractor themselves and there isn't standardized pricing
+
+
+
+
 **Misc:**
 - [Spec](https://spec.co/)
 - [Buildout](https://buildout.com/)
