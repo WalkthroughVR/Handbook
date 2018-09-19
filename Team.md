@@ -2,7 +2,12 @@
 **Executive Team**
 - [CEO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/CEO.md) - [Pascal Wagner](https://www.linkedin.com/in/pascalwagner/) (Denver, CO)
 - [COO](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/COO.md) - [Blake Yeager](https://www.linkedin.com/in/blakeyeager/) (Denver, CO)
-- [Head of Growth](https://github.com/WalkthroughVR/Handbook/blob/master/Roles/VPofGrowth.md) - Vacant
+
+
+<br><br>
+**Growth:**
+- Growth Hacker - Vacant
+
 
 <br><br>
 **Engineering:**
