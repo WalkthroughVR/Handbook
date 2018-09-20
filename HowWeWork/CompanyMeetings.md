@@ -1,49 +1,57 @@
 
+At Walkthrough, we are not huge fans of standing meetings. However, as a fully remote team we realized that having a set of standing meetings was critical to effective collaboration. We have come up with the following set of standing meetings that allow us to communicate and collaborate as a team on a regular basis.
 
-##  Daily Standup - 10am-10:30am MST every day but not when we have sprint
-1. Write daily update & make sure your asana tasks are up to date - prior to 10a, by 9:45a
-1. Read everyone’s responses, ask clarifying questions
-1. Review Gitbut tasks, first looking at those that Depend on Others and In the Pen
-1. Review OKR
-1. Where are we & What can each of us do today/tomorrow to get closer to our goal?
+# Standing Meetings
 
+Daily Standup - A quick touch base, done primarily through Slack to share learnings, ensure no one is blocked, and provide a quick progress update to the extended Walkthrough team.
 
-## Fortnightly Sprint - 10am-12pm MST every other Monday
+Standing Team Lunch (Optional) - An open hangout where anyone can drop in, eat their lunch, or just hang out with other team members. The only rule, no talking shop, schedule your own damn meeting.
 
-1. Daily standup first
-1. Celebrate other team members wins & celebrate self wins that were not recognized. 
-1. Goals from the past 2 weeks.
-   1. Did you successfully complete your goals?
-   1. If not - let’s setup a ReHab task
-1. What major breakdowns did we have in operations last week that we may need to address?
-1. Setting up OKR’s (Objectives & Key Results) & why.
-   1. What is the one thing that will most improve the business?
-   1. Will this help us understand how our business works?
-   1. Does this result have a starting value that we measure (AKA: we’re currently at X)
-   1. Can we change this metric over the next week?
-   1. Are we measuring results instead of work done?
-   1. Is this a binary result? (It shouldn’t be)
-   1. Is this measurable?
-   1. Does this give us autonomy in how to achieve the result (Can we try several different things)
-1. Brainstorm experiments (Update Weekly Experiments Worksheet - http://bit.ly/WalkthroughExperiments)
-   1. What experiments could we do that feel uncomfortable that may land us in the ditch. 
-1. Create Tasks to help with those experiments.
-1. Prioritize projects in order in which they should be accomplished (the most important should be at the top.
-   1. Mark tasks involving others with a star indicating that they should be prioritized.
-1. Read through every task out loud that is put on the board or in Asana to make sure everyone understands what will be achieved. Each task should have a metric and a definitive way to know if it has been achieved or not. 
-1. Other
-   1. Improvements to this process
-   1. Talking/Discussion Points
+Weekly Sprint Planning - A detailed review of the backlog of Engineering and Design tasks with the entire Walkthrough team. We make sure that each task is fully understood and documented (including acceptance criteria) and that every task is estimated and assigned an owner (if it makes sense).
+
+Weekly Growth Meeting - Our weekly opportunity to review our growth objectives, tests that are currently running, and any learnings that have been uncovered.
+
+Weekly Demos - An opportunity to showcase what you have been working on this week or something you would like to show off to your teammates. It is optional to present, but not optional to attend. It can be something work-related or a side project you have been working on in your spare time.
+
+Monthly Open Book (Optional) - This is the chance for the entire company to take a deeper dive into how Walkthrough as a business is performing. We will review month-end financials, metrics, and any other pertinent information or decisions that the board may be discussing. There will be a chance to ask questions of the leadership about any topic.
+
+Monthly Retrospective - The meeting where we get all introspective about how things are going and what we can be doing to improve our execution and our ability to collaborate as a team. We also reflect on whether the retrospective meeting itself is adding value, it sounds very meta, but it is a critical component to continuous improvement.
+
+Monthly Existential Meeting - This is a chance to step out of the day-to-day operations of the business and discuss big meaty topics that often go overlooked. We probably won’t have all the answers (and getting answers isn’t the goal of this meeting), but it is a good forum for people to surface ideas and weigh in on a variety of topics.
+
+Monthly Strategy & Objectives - The meeting where the objectives are set for the next month. Each team then aligns their growth meetings around these objectives.
 
 
+## Current Meeting Schedule
 
-## Existential - 10:30am-12pm MST every other Friday
-Existencial is a meeting for us to connect on any business related topic, not to necissarly achieve consensus, but rather allow everyone to weigh in and receive additional insights on a topic.
+### Weekly Cadence (all times Mountain)
 
-Topics may include: 
-* I don’t think we should be build X, maybe we should build Y. 
-* I’m struggling with building a great customer service team, can we afford to do X?
+#### Monday
+* 10am - 11am - Sprint Planning
+#### Tuesday
+* 10am - 10:15am - Standup
+* 12pm - 1pm - Standing Team Lunch
+#### Wednesday
+* 10am - 10:15am - Standup
+#### Thursday
+* 10am - 10:15am - Standup
+* 12pm - 1pm - Standing Team Lunch
+#### Friday
+* 10am - 11am - Standup & Weekly Demos
+* 11am - 12pm - Growth Meeting
+
+### Monthly Cadence (all times Mountain)
+
+#### 1st Thursday of every month
+* 10:15am - 12pm - Monthly Existential Meeting
+#### 2nd Thursday of every month
+* 10:15am - 11:30am - Monthly Open Book
+#### 3rd Thursday of every month
+* 10:15am - 11:30am - Monthly Process Retrospective
+#### Last Thursday of every month
+* 10:15am - 11:30am - Monthly OKRs Review
 
 
-## Ad Hoc Watercooler Conversation
-At Walkthrough, because we're a remote team, when we have emetings with our teammates, they are usually structured around getting a piece of business accomplished. To make sure we actually have time to connect with our teammates on a personal level, on a weekly basis we pair teammates up in the company to schedule their own 1-1 time. On top of that, this also gives new people within the team to have an opportunity to connect with team members when they join and feel more apart of our community. 
+# Ad Hoc Watercooler Conversation
+
+The meetings above (with the exception of the Standing Team Lunch) are typically structured around getting a piece of business accomplished. To ensure we actually have time to connect with our teammates on a personal level, on a weekly basis we randomly pair two teammates up to schedule their own 1-1 time. These ad hoc conversations give everyone a chance to catch up and hear how things are going outside of work. They also give new people within the team an opportunity to connect with team members when they join and feel more apart of our community. 
