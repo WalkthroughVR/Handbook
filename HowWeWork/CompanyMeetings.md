@@ -19,7 +19,7 @@ At Walkthrough, we are not huge fans of standing meetings. However, as a fully r
 
 **Monthly Existential Meeting** - This is a chance to step out of the day-to-day operations of the business and discuss big meaty topics that often go overlooked. We probably won’t have all the answers (and getting answers isn’t the goal of this meeting), but it is a good forum for people to surface ideas and weigh in on a variety of topics.
 
-**Monthly Strategy & Objectives** - The meeting where the objectives are set for the next month. Each team then aligns their growth meetings around these objectives.
+**Monthly Strategy & OKR Review** - Monthly meeting to review our strategy and our progress against our OKRs from the previous month. We will also review and agree on our OKRs for the coming month. Everyone is expected to align their growth initiatives and other work to help support and drive progress around these OKRs.
 
 
 ## Current Meeting Schedule
@@ -49,7 +49,7 @@ At Walkthrough, we are not huge fans of standing meetings. However, as a fully r
 #### 3rd Thursday of every month
 * 10:15am - 11:30am - Monthly Process Retrospective
 #### Last Thursday of every month
-* 10:15am - 11:30am - Monthly OKRs Review
+* 10:15am - 11:30am - Monthly Strategy & OKR Review
 
 
 ## Ad Hoc Watercooler Conversation
