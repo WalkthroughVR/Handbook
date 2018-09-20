@@ -1,7 +1,7 @@
 
 At Walkthrough, we are not huge fans of standing meetings. However, as a fully remote team we realized that having a set of standing meetings was critical to effective collaboration. We have come up with the following set of standing meetings that allow us to communicate and collaborate as a team on a regular basis.
 
-# Standing Meetings
+## Standing Meetings
 
 **Daily Standup** - A quick touch base, done primarily through Slack to share learnings, ensure no one is blocked, and provide a quick progress update to the extended Walkthrough team.
 
@@ -52,6 +52,6 @@ At Walkthrough, we are not huge fans of standing meetings. However, as a fully r
 * 10:15am - 11:30am - Monthly OKRs Review
 
 
-# Ad Hoc Watercooler Conversation
+## Ad Hoc Watercooler Conversation
 
 The meetings above (with the exception of the Standing Team Lunch) are typically structured around getting a piece of business accomplished. To ensure we actually have time to connect with our teammates on a personal level, on a weekly basis we randomly pair two teammates up to schedule their own 1-1 time. These ad hoc conversations give everyone a chance to catch up and hear how things are going outside of work. They also give new people within the team an opportunity to connect with team members when they join and feel more apart of our community. 
