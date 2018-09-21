@@ -13,6 +13,7 @@
 1. Invite to all company meetings (Fortnightly Sprint, Daily Standup, Existencial calendar) invites using company email
 1. Set personal calendar reminder to review full employment after 1 month.
 1. [Invite to Walkthrough team Google Calendar using company email.](https://calendar.google.com/calendar/r/settings/calendar/Z2V0YXdhbGt0aHJvdWdoLmNvbV81YzJvbzRubWhkNmdlNWE5MjFianNyZHBoNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+1. Invite to the [team in Northstar](https://projects.growthhackers.com/u/orgs/walkthrough/projects/PS/team) using their company email.     
 1. Setup weekly review meetings for candidates throughout the trial period with Blake on Google calendar by using both Blake & the candidates Walkthrough email. 
 
 ## Official Full Team Member 
