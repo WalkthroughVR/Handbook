@@ -24,3 +24,5 @@ Following our company value of being transparent, we put out a monthly report th
 22. [Walkthrough Update #22 (April 2018): ~3x YoY Growth](http://www.pascalwagner.com/walkthrough-update-22-april-2018-3x-yoy-growth/)
 23. [Walkthrough Update #23 (May 2018) – Short & Sweet](http://www.pascalwagner.com/walkthrough-update-23-may-2018/)
 24. [Walkthrough Update #24 (June 2018)](http://www.pascalwagner.com/walkthrough-update-24-june-2018/)
+25. Walkthrough Update #25 (July 2018)
+26. Walkthrough Update #26 (August 2018)
