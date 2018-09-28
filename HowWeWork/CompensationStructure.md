@@ -30,7 +30,10 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 
 
 **Annually:**
-- 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing. Here is an example of the health insurance you can get through our payroll provider;  [Gold Plan](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_500_20_5750_2uxb.pdf) 
+- 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing. Here is an example of the health insurance you can get through our payroll provider: 
+  - [Gold Plan](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_500_20_5750_2uxb.pdf)
+  - [Silver Plan](http://www.roperinsurance.com/wp-content/uploads/2015/11/Silver-PPO-4000-15_1X6U-1.16.pdf)
+  - [Bronze Plan](http://www.roperinsurance.com/wp-content/uploads/2015/11/Bronze-PPO-5200-20_1G10-1.16.pdf)
 
 - $240/year Learning & Development Stipend - The Learning & Development stipend is available to support teammates’ ongoing self-improvement. This includes: Online courses (Treehouse, Udemy, Coursera, CodeAcademy etc.) Classes, live training (General Assembly, local courses etc.) Leadership coaching, & digital news subscriptions such as the Wall Street Journal and the Economist. It just need to be somewhat work related.
 
