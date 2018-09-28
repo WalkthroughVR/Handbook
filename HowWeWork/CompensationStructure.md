@@ -30,9 +30,12 @@ Rather than focus on "experience" or "tenure", we prefer to give our team member
 
 
 **Annually:**
-- 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing.
+- 100% of health insurance covered under our insurance policy through Gusto or up to $700/mo in reimbursement towards a health care provider of your choosing. Here is an example of the health insurance you can get through our payroll provider;  [Gold Plan](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/anthem/plans/2018/anthem_anthem_gold_ppo_500_20_5750_2uxb.pdf) 
+
 - $240/year Learning & Development Stipend - The Learning & Development stipend is available to support teammates’ ongoing self-improvement. This includes: Online courses (Treehouse, Udemy, Coursera, CodeAcademy etc.) Classes, live training (General Assembly, local courses etc.) Leadership coaching, & digital news subscriptions such as the Wall Street Journal and the Economist. It just need to be somewhat work related.
+
 - 2 Weeks minimum vacation - Vacation is always a sticky topic and what we've landed on is a minimum number of days off you should take per year. Often we may work weekends, late night or holidays because thats when we feel the most productive. As long as it doesn't impact your work and what you're able to complete - we want you to take off however much you need. We've never had an issue with someone taking too much time off, rather, we need to encourage people to take more vacation. We really encourage you take at least 2 weeks vacation per year. This policy also covers bereavement leave - take as much time as you need.
+
 - 8 Weeks Maternity Leave w/ Full Pay - You can take as much time as you need thereafter unpaid. Your role will be waiting for you when you come back! You can also choose to take this time before birthy as well.
 
 
