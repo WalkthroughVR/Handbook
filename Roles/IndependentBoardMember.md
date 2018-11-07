@@ -40,7 +40,3 @@ The Independent Board Member acts as an intermediary for the Board of Directors.
 - At least until the company reaches a Series A investment, board members are expected to cover any costs related to being on the board. 
 
 - The table below is meant to help aid in giving perspective of the future potential value of these shares. The table below does not account for dilution or any other factors and is no way meant to be used as a de facto value. Candidates should run their own potential exit analysis. 
-
-| Company Exit Valuation    |  $6.4M  |   $100M   |    $500M    |
-| ------------------------- |:-------:|:---------:|:-----------:|
-| **Potential Share Value** |~$55,000 | ~$867,000 | ~$4,300,000 |
