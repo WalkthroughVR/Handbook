@@ -37,7 +37,12 @@
 **Multiple Service Providers**
 - [Takl](https://takl.com) - They are directed towards helping consumers with everyday tasks
 - [Angies List](https://www.angieslist.com/) - Marketplace of contractors. Main difference is that the customer needs to vet the contractor themselves and there isn't standardized pricing
-
+- [Thumbtack](https://www.thumbtack.com/) - Browse profiles, ask for a quote
+- [Yelp](yelp.com) - Brose Profiles
+- [Stilio](https://stilio.com/) - Browse Profiles of Photographers
+- [Pineapple Labs](https://portal.pineapplelabs.io/) - Browse Profiles of Photographers
+- [HouseLens](http://houselens.com)
+- [KoaWare](http://koaware.com) - This is the closest to what we are working on. 
 
 
 
@@ -58,8 +63,7 @@
 
 
 
-## Photography Service Provider Pricing Breakdown
-![Pricing Breakdown](http://i67.tinypic.com/10pdk7s.jpg)
+
 
 <br><br>
 ## Customer Breakdown - Realtor
