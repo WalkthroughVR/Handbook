@@ -3,72 +3,21 @@ Below you'll find how we define our culture. Values are the ideals that we aim f
 <br><br>
 When we think about culture, we ask ourselves: “What environment would enable Walkthrough to become one of the world’s greatest brands - creating the best products, ensuring happiness for our users, and creating the most fulfillment and personal growth for our team?”
 
-The following values are what we’ve come up with to date, that we believe in and strive for. They happen to spell out what we personally all strive for - GROWTH.
+The following values are what we’ve come up with to date, that we believe in and strive for.
 
+## Cultivate Positivity
+We do our best to always approach situations with a positive and optimistic mindset. We assume positive intent on the behalf of coworkers, customers, and anyone else we may be working with. We strive to be happy and to seek out solutions, not problems. We avoid complaining or criticizing teammates unnecessarily and are deliberate about sharing genuine appreciation on a regular basis.
 
-## Growth
-**Details:**
-* Are conscious of your current level of productivity and happiness and make continual adjustments to improve your life.
-* Have a higher expectation of yourself than Walkthrough does of you
-* Practice activities or develop habits that will improve your mind and body
+## Default to Transparency
+We believe that transparency is the foundation on which trust is built, and that trust is a prerequisite to building a high-performance team. We share our thoughts openly and honestly, we highlight our successes and our failures, our strengths and our weaknesses. We use radical candor to deliver direct feedback while ensuring individuals know how much we care about them. We avoid making assumptions and don’t let serious concerns go unaddressed.
 
-**In Practice:**
-* Are potential hires actively reading books to better their understanding of the world? Are they naturally curious? We actively sort for candidates who read!
-* We give free books on kindle & audible to all of our team members to encourage their self development & growth to become better people. 
-* We are not firefighters (although we need to do this from time to time). We are architects. We don’t manage problems; we work on systems in order to prevent problems from happening in the first place. We simplify. Many times eliminating of a system, protocol, or project can be a good thing. We refine to the smallest amount of steps. Our systems are designed to be “Off-The-Street” meaning, anyone with the required skills for a role could pick up a procedure and follow it. 
+## Leverage Data
+Whenever possible we seek out data to test our hypotheses and assist us in making decisions. We delegate decisions to the individuals who are in the best position and have the necessary data to make an informed decision. At the same time, we have a bias towards action and work to avoid “analysis paralysis”. We endeavor to leverage data to help us overcome our personal biases and avoid blind spots as a company.
 
-## (Doing the) right thing
-**Details:**'
-* Choose whats best for customers and the company in the long-term
-* Correct mistakes even when no one would notice
-* Get excited about opportunities to help others
+## Honor Commitments
+We take the commitments we make to our teammates seriously and do our best to either deliver on those commitments or clearly communicate as soon as we realize we will not be able to meet one. We take pride in creating a great product and correct mistakes even when no one will notice. We work through uncertainty and are willing to put in the extra effort to make sure things are done right.
 
-**In Practice:**
-* One of our photographers had their shoes stolen while working at a property as the homeowner asked them to take them off and leave them outside. We chose to pay for a new set of shoes for them.
-* If your system failed or you didn’t follow procedure, you step in and do what it takes to right the wrong as quickly as possible.
-* We don’t waste anyone else’s time. Whether that’s attending meetings late or delivering late. We value and respect each others time. 
-* When we have wronged a customer, always give them the choice of choosing at least two different options to make it right.  We come up with the choices, but empower the customer to make the decision. They are our livelihood, without them we don’t earn an income. We do whatever it takes (up to $200) to make a customer happy. Whether that is find another company to provide the service for them, give a refund, or to switch things around to make their desires happen. 
+## Improve Consistently
+As individuals, and as a company, we consistently find ways to improve. We actively seek out opportunities to discover new ideas, ways to collaborate, and approaches to problem-solving. We don’t try to avoid mistakes; instead, we focus on learning and strive for excellence. On a personal level, we identify activities that bring balance to our lives and work to build habits that will improve our minds and our bodies.
 
-## Optimism
-**Details:**
-* Strive to approach things in a positive and optimistic way
-* Avoid criticizing or condemning team members or users
-* Avoid complaining
-* Let the other person save face, even if they are clearly wrong
-* Are deliberate about giving genuine appreciation
-
-**In Practice:**
-* On Facebook & Twitter, are you posting mostly positive comments or are you often complaining?
-* We aim not to clown people in front of their peers. While it’s OK to give certain kinds of feedback in a group setting, you should strive never to embarrass someone in front of their peers. If you do so, then your feedback will have little impact other than to a) cause the employee to be horribly ashamed and b) cause the employee to hate your guts
-
-## Weighing Data
-**Details:**
-* Take the approach that everything is a hypothesis and you could be wrong
-* Are suggestive rather than instructive, replacing phrases such as ‘certainly’, ‘undoubtedly’, etc. with ‘perhaps’, ‘I think’, ‘my intuition says’
-
-**In Practice:**
-* In every meeting we refer back to a metric. It's easy in meetings to jump ahead to designing a solution before fully understanding the problem or understanding how much we want to improve a metric by to help determine if our solution is a success or not. 
-* When prioritizing product road map, we've looked at the metrics we're aiming to improve that quarter and adjust our roadmap based on what we believe will have the biggest impact on those metrics. 
-* There are a lot of opinions about what does and doesn't work. Suggestions and recommendations should be backed by some kind of evidence or data. If there is none, we can run a test.
-        
-## Transparency
-**Details:**
-* Share beliefs, failures, strengths and decisions
-* Use transparency to build trust and to help others
-* State your thoughts immediately and with honesty
-* Over-communicate, repeating things more times than you would intuitively
-* Don’t make assumptions, you instead ask that extra question to have the full picture
-
-**In Practice:**
-* We've written down and share our [product roadmap publicly](https://github.com/WalkthroughVR/Handbook/projects/2) to make sure that everyone on the team is on the same page, customers can get an idea of what we're working on and potential applicants can get better insight into the projects they may jump into.
-* It’s better to let everyone know loud and clear when you’ve made a mistake than for someone else to find out. 
-
-## Hustle
-**Details:**
-* Are comfortable making decisions and working in situations of uncertainty
-* Have a bias towards actions. Done well today is better than perfect next week
-* Desire to create a great product!!!
-        
-**In Practice:**
-* If someone in the organization says they will be finished with a task or project by a certain date, they they fully commit to finishing their project by that deadline (or if legitimate delays intrude, advise workers well in advance that the deadline is impossible).
-* Where systems are not in place, we create MVP’s and get the first version down as quickly as possible to continue improving our systems. We’ll never have a perfect system without it living in the wild, so the goal is to have this happen as quickly as possible. 
+These core values have been influenced by many different individuals and companies, but we specifically want to say thank you to Buffer and Basecamp for being so transparent with their own core values (from which we borrowed liberally), and to Kim Scott the author of Radical Candor and David Marquet the author of Turn The Ship Around (whose ideas are found throughout the descriptions of these values).
