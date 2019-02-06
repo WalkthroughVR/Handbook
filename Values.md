@@ -20,4 +20,6 @@ We take the commitments we make to our teammates seriously and do our best to ei
 ## Improve Consistently
 As individuals, and as a company, we consistently find ways to improve. We actively seek out opportunities to discover new ideas, ways to collaborate, and approaches to problem-solving. We don’t try to avoid mistakes; instead, we focus on learning and strive for excellence. On a personal level, we identify activities that bring balance to our lives and work to build habits that will improve our minds and our bodies.
 
+## 
+
 These core values have been influenced by many different individuals and companies, but we specifically want to say thank you to Buffer and Basecamp for being so transparent with their own core values (from which we borrowed liberally), and to Kim Scott the author of Radical Candor and David Marquet the author of Turn The Ship Around (whose ideas are found throughout the descriptions of these values).
